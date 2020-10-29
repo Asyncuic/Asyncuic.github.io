@@ -1,0 +1,60 @@
+[33mcommit 02d6d704c4fd7ad4ec192798bfee9e817ae81c57[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: brylledesigns <clarido.christianbryllevon@gmail.com>
+Date:   Thu Oct 29 16:31:36 2020 +0800
+
+    embed video and cards added
+
+[33mcommit 89ff89fd5248fc710432652b9be6b9c59a36a453[m
+Author: brylledesigns <clarido.christianbryllevon@gmail.com>
+Date:   Thu Oct 29 16:30:10 2020 +0800
+
+    video embed and additional cards added
+
+[33mcommit 81b196fdfc2f07a25a80ea142be3faffc2fdb571[m
+Author: brylledesigns <clarido.christianbryllevon@gmail.com>
+Date:   Thu Oct 29 15:15:02 2020 +0800
+
+    added video
+
+[33mcommit 44744ee83169274c82146b2fdede61b9cd6931b0[m
+Merge: 1416956 5f085e1
+Author: brylledesigns <clarido.christianbryllevon@gmail.com>
+Date:   Thu Oct 29 15:11:36 2020 +0800
+
+    Merge branch 'main' of https://github.com/Asyncuic/Asyncuic.github.ui into main
+
+[33mcommit 141695692ffefac0c36649083df72e8e6079c2f2[m
+Author: brylledesigns <clarido.christianbryllevon@gmail.com>
+Date:   Thu Oct 29 15:11:20 2020 +0800
+
+    test
+
+[33mcommit 5f085e157a811e41968d19a1f1330799d1c8756c[m[33m ([m[1;31masync/main[m[33m)[m
+Author: nonsense00027 <caneteneilfred@gmail.com>
+Date:   Thu Oct 29 15:01:56 2020 +0800
+
+    Finalize
+
+[33mcommit e143d3314ece46fb01e4bd283e2958b66a784c9e[m
+Author: nonsense00027 <caneteneilfred@gmail.com>
+Date:   Thu Oct 29 14:56:42 2020 +0800
+
+    Initial Content
+
+[33mcommit f54da44666be0a99a18a8c42ca85fa4335889ea5[m
+Author: nonsense00027 <caneteneilfred@gmail.com>
+Date:   Thu Oct 29 14:54:13 2020 +0800
+
+    Initial Content
+
+[33mcommit 452b5df3985f4c5c50a17a48157b72eaed9ff210[m
+Author: nonsense00027 <caneteneilfred@gmail.com>
+Date:   Thu Oct 29 14:23:52 2020 +0800
+
+    Template
+
+[33mcommit 89e0108d97c55bc7838ee60640fed532e5360145[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: brylledesigns <clarido.christianbryllevon@gmail.com>
+Date:   Thu Oct 29 13:47:09 2020 +0800
+
+    first commit
